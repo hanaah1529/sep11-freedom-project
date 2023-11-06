@@ -1,10 +1,10 @@
 # Tool Learning Log
 
-Tool: **X**
+Tool: jQuery
 
-Project: **X**
+Project: Fitness app
 
----
+--- I want to create a fitness app in which you it provides workouts you get to choose frommand healthy lifestyle tips.
 
 10/23/23:
 * Text
