@@ -8,9 +8,6 @@ An example of me tinerking in jsbin and me trying to create my JS project which 
 Some skills i have developed for this entry are "how to google". For example while learning about my tool i searched up things like how to create an app using jQuery on Youtube and a few tutorials would show up and this is so i can have a good head start and a clear view on how it should be constructed and i needed the extra help. I also would google for some jQuery code concepts for organization because i like to visually see how i would need to structure my code and then think to myself how can i modify and replace and or add my own input of code. In the jQuery website they have a section of code organization to show users how they should structure their code. This format can be useful because although it may not be easy if you already know basic JS, arrays, functions, and conditionals then you have a place to start.  
 Another skill that i have been recently developing more and still am is "How to Learn". For example now i make it upon myself to have to pay more attention in class, do the freecodecamp lessons assigned to me so that it can later on be of help to me when i have to code to make so my freedom project.
 
- <img width="1375" alt="Screen Shot 2023-11-13 at 12 10 28 AM" src="https://github.com/hanaah1529/sep11-freedom-project/assets/114586364/f72b8663-7599-4640-8f3a-35628d7a5d09">
-
-
 [Next](entry02.md)
 
 [Home](../README.md)
