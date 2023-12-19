@@ -1,4 +1,4 @@
-# Entry 2: Learning how to use jQuery to make a home page
+# Entry 2: Learning the basis of jQuery and setting up my home page 
 ##### 12/11/23
 
 ### Introduction
