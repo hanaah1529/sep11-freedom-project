@@ -1,4 +1,4 @@
-# Entry 2: Learning how to use jQuery to build a fitness app
+# Entry 2: Learning how to use jQuery to make a home page
 ##### 12/11/23
 
 ### Introduction
