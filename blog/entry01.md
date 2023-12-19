@@ -1,8 +1,6 @@
 # Entry 1: Deciding on a tool and project
 ##### 11/7/23
 
-### Deciding a tool on a project
-
 The current stage i am on in the Engineering and Design Process is "define the problem". I have decided to create an app called "FitLife" for my freedom project using the tool jQuery in which will offer workouts for example like arms,shoulders,abs,legs,etc and you get to pick and choose from in which you think is suitable for you and might also even have descriptions and what this workout is for and a checklist/activitylog to track your workouts.  This can be useful for anyone who wants to get into fitness or is already in fitness and wants to live a more helthy lifestyle. The tool i will be using to create this is jQuery and just regular Javascript. Why i choose jQuery is because what its suppose to do is simplify html markup and allows what ever website or app your building to be more interactive.
 ### Skills
 Some skills i have developed for this entry are "how to google". For example while learning about my tool i searched up things like how to create an app using jQuery on Youtube and a few tutorials would show up and i do this so i can have a good head start and some clear view on how it should be constructed and i needed the extra help.
