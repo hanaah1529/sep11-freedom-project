@@ -13,6 +13,9 @@ So then i went to bootstrap and imported the cdn in the stylesheet href. As well
 [link](https://api.jquery.com/)
 #### Link to bootstrap cdn
 [link](https://getbootstrap.com/docs/4.1/getting-started/introduction/#quick-start)
+
+### Link to bootstrap navbar component
+[link(https://getbootstrap.com/docs/5.3/components/navbar/)
 ### Link to FCC lessons i used to help me
 [link]()
 ### Skills
