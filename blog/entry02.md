@@ -1,21 +1,19 @@
-# Entry 2
+# Entry 2: Learning how to use jQuery to build a fitness app
 ##### 12/11/23
 
-### Engineering Design Process
+### Introduction
 The current Engineering Design Process i am on is "research the problem". So now that i have planned to make a fitness app i must do research on how exactly i am going to create it by watching going on the search in youtube and looking for a valuable tutorial that will actually help guide me with using my tool.
-
-I found this covid 19 tracker app tutorial that i thought i can watch and get an idea of how an app can be created in jQuery than implement my own stuff instead of just copying exactly what the person did.
-[link](https://www.youtube.com/watch?v=Nv33sHscfLk)
-After watching this video i got a solid idea of what i needed to do and how to kind of like set it up so then i thought of instead making a full app to just make a fitness tracker or like a step counter.
-
-What i did to learn more about my tool was i searched up jquery and then i found this link where it said "How jQuery Works" and they had this started code when you are using jQuery to set up your html page. Then i went to jQuerys learning center and then i went to using jQuery Core where i would learn more about the jquery keys and commands. With jquery the page can't be manipulated safely until the document is "ready" and jquery can detect whether or not its ready for you. Like for example code inside $( document ).ready(function() will only run once the page DOM is ready for Javascript code to execute. I copied this code into my js bin where it says javascript, also the reason why i chose to do jsbin first is because it find it easier to work there like as my draft so i can see how the code will visual play out and then paste it into my id once i am done.
+### Learning jQuery
+I searched up jquery and then went to where it says "api documentation" then found all of these different types of jQuery function signatures such as ajax,attributes,events,shorthand methods,DOM, and etc.At first glance this did look overwhelming so i searched up said "How jQuery Works" and they had this started code when you are using jQuery to set up your html page. Then i went to jQuerys learning center and then i went to using jQuery Core where i would learn more about the jquery keys and commands. With jquery the page can't be manipulated safely until the document is "ready" and jquery can detect whether or not its ready for you. Like for example code inside $( document ).ready(function() will only run once the page DOM is ready for Javascript code to execute. I copied this code into my js bin where it says javascript, also the reason why i chose to do jsbin first is because it find it easier to work there like as my draft so i can see how the code will visual play out and then paste it into my id once i am done.
 So then i went to bootstrap and imported the cdn in the stylesheet href. What i did while setting up my home page for my fitness app was creating a div and a button id that the user would click on that says "start-workout".
 A resource i used to help me for grouping and to keep the workout data was by going on freecodecamp to the lesson "Accessing Nested Arrays". Another resource i used is W3Schools for certain things like how to make a button interactive for the homepage if they were to like click on start workout or something else.
 [link]
-#### Link to bootstrap cdn
-[link](https://getbootstrap.com/docs/4.1/getting-started/introduction/#quick-start)
+### Link to how jQuery works
+[link](https://learn.jquery.com/about-jquery/how-jquery-works/)
 ### Link to jQuerys API Documentation
 [link](https://api.jquery.com/)
+#### Link to bootstrap cdn
+[link](https://getbootstrap.com/docs/4.1/getting-started/introduction/#quick-start)
 ### Link to FCC lessons i used to help me
 [link]()
 ### Skills
