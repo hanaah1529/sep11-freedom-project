@@ -1,4 +1,4 @@
-# Entry 1
+# Entry 1: Deciding on a tool and project
 ##### 11/7/23
 
 ### Deciding a tool on a project
