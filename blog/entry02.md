@@ -2,7 +2,7 @@
 ##### 12/11/23
 
 ### Engineering Design Process
-The current engineering design process i am on is "research the problem". So now that i have planned to make a fitness app i must do research on how exactly i am going to create it by watching going on the search in youtube and looking for a valuable tutorial that will actually help guide me with using my tool.
+The current Engineering Design Process i am on is "research the problem". So now that i have planned to make a fitness app i must do research on how exactly i am going to create it by watching going on the search in youtube and looking for a valuable tutorial that will actually help guide me with using my tool.
 I found this covid 19 tracker app tutorial that i thought i can watch and get an idea of how an app can be created in jQuery than implement my own stuff instead of just copying exactly what the person did.
 [link](https://www.youtube.com/watch?v=Nv33sHscfLk)
 After watching this video i got a solid idea of what i needed to do and how to kind of like set it up so then i thought of instead making a full app to just make a fitness tracker or like a step counter.
